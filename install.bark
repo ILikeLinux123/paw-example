@@ -1,0 +1,2 @@
+def run(corgi,args):
+  corgi.info("This is where you would have commands to move files using corgi.execute also .bark format is the app execution command for corgi os it runs it like a normal command so you can have corgi.ececute or so on it also lets users be able to just run yourapp instead of having to put yourapp.bark or py yourapp.py")
