@@ -1,0 +1,2 @@
+def run(corgi,args):
+  corgi.info("Here is where all of your uninstall stuff is handeled DONT HAVE THE INSTALLER MOVE OR DELETE THIS same with the folder the package came in dont move or delete that it is what it refers too")
